@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Chicken-Disease-Prediction"
 AUTHOR_USER_NAME = "Antonio Fiscarelli"
-SRC_REPO = "Chicken-Disease-Prediction"
+SRC_REPO = "cnnClassifier"
 AUTHOR_EMAIL = "antoniofisk90@gmail.com"
 
 

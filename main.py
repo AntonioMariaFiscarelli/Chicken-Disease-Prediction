@@ -1,3 +1,3 @@
-from src.ChickenDeseasePrediction import logger
+from src.cnnClassifier import logger
 
 logger.info('First log')
